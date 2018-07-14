@@ -1,0 +1,7 @@
+com\puma\generics\AutoConstant.class
+com\puma\generics\ActionsUtility.class
+com\puma\generics\Basepage.class
+com\puma\generics\GenericUtils.class
+com\puma\pages\LoginPage.class
+com\puma\tests\LoginTest.class
+com\puma\generics\BaseTest.class
